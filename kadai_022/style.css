@@ -19,6 +19,7 @@ main {
 #parent {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .contents {
