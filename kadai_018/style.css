@@ -1,7 +1,7 @@
 #top {
     width: 800px;
     background-color: #dcc9f4;
-    padding: 20px, auto;
+    margin: 20px auto;   
     text-align: center;
 }
 
@@ -13,7 +13,7 @@
 #middle {
     width: 800px;
     height: 800px;
-    margin: 20px, auto;
+    margin: 20px auto;
     background-color: #ffd9df;
     position: relative;
 }
@@ -42,7 +42,6 @@
     height: 300px;
     margin: auto;
     background-color: #87ceeb;
-    
 }
 #bottom-child01,
 #bottom-child02,
