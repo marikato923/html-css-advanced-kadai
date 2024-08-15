@@ -9,7 +9,7 @@ body {
 
 h1 {
     letter-spacing: 1.2em;
-    font-size: 40px;
+    font-size: 2rem;
     border-bottom: solid 3px rgb(115, 115, 114);
     text-shadow: 1px 1px 2px rgb(115, 115, 114) ;
 }
@@ -25,6 +25,6 @@ h1 {
 .pink {
     color: rgb(255, 192, 203)
 }
-#basic {
+#basic p {
     font-weight: bold;
 }
